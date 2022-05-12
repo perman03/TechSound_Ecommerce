@@ -1,5 +1,9 @@
 # TechSound_Ecommerce
 
+Landing de un sitio web que maneja el concepto de la venta de audifonos. Conceptos intermedios de CSS son aplicados a lo largo del proyecto.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 Website about the sale of hearing aids. Intermediate CSS concepts such as grid, flex, and animations are used.
 
 Designed by: Juan De La Torre 🖌️
